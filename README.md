@@ -66,6 +66,7 @@ AUC Score: 0.8951
 
 * Classification Report
 * ROC Curve
+  
   <img width="536" height="393" alt="roc_curve" src="https://github.com/user-attachments/assets/65f5f725-c52c-43e7-abc8-8d4cb887a8a0" />
 
 * AUC Score
